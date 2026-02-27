@@ -21,7 +21,7 @@ Desenvolvedor Full Stack com experiência em front-end e back-end, utilizando te
 ## 💼 **Experiências**
 
 **FIEMS – Federação das Indústrias de Mato Grosso do Sul**  
-_Desenvolvedor Full Stack_ | OUT/2024 – Atual
+_Desenvolvedor Full Stack_ | OUT/2024 – FEV/2026
 
 - Desenvolvimento e manutenção de sistemas e processos BPMs na plataforma Zeev.
 - Criação de integrações com bancos de dados e APIs externas.
