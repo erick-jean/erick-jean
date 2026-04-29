@@ -56,12 +56,6 @@ _Desenvolvedor de Web Sites_
 - [baikalsec.com](https://baikalsec.com/)
 - [alcinopolis.ms.gov.br](https://www.alcinopolis.ms.gov.br/site/)
 
-### **Projetos Pessoais (GitHub)**
-
-- [**Casaque**](https://github.com/erick-jean/casaque): Backend de sistema para gestão imobiliária, desenvolvido com **Node.js**, **Express**, **Prisma ORM** e **PostgreSQL**.
-- APIs REST estruturadas para autenticação, cadastro e gerenciamento de imóveis.
-- Foco em arquitetura limpa, validação de dados e integração eficiente com banco relacional.
-
 ---
 
 ## 🎓 **Formação**
